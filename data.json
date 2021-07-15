@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "dat"
+    },
+    {
+      "id": 2,
+      "name": "kien"
+    },
+    {
+      "id": 3,
+      "name": "hieu"
+    },
+    {
+      "name": "trung",
+      "id": 4
+    },
+    {
+      "name": "trung",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "user_id": 2,
+      "content": "hello dat"
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "content": "hello kien"
+    },
+    {
+      "user_id": 1,
+      "content": "hello trung",
+      "id": 3
+    },
+    {
+      "content": "hello",
+      "id": 4
+    }
+  ]
+}
